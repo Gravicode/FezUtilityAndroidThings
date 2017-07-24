@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/pca9685/src/main/shaders"/></dataSet><dataSet config="release"><source path="/Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/pca9685/src/release/shaders"/></dataSet></merger>

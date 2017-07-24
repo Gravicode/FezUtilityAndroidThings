@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/gadgeteercore/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/mifmasterz/.android/build-cache/1dd1aadda85bc11fe29f32d942857fcd84803f7a/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/gadgeteercore/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/mifmasterz/.android/build-cache/1dd1aadda85bc11fe29f32d942857fcd84803f7a/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

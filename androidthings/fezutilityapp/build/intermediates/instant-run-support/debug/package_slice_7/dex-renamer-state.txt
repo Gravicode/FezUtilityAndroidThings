@@ -1,0 +1,4 @@
+#Mon Jul 24 12:47:28 WIB 2017
+base.0=/Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/fezutilityapp/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7
+renamed.0=classes.dex
+file.0=/Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/fezutilityapp/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex

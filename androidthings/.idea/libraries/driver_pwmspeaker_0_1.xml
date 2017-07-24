@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="driver-pwmspeaker-0.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/f35ee0dceb777930dbcac5f164366532af0e7aa4/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/f35ee0dceb777930dbcac5f164366532af0e7aa4/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.things.contrib/driver-pwmspeaker/0.1/e68d37af615fc60b3d39d1f18668e9c036ef8a60/driver-pwmspeaker-0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

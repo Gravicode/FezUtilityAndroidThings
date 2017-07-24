@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/rc-car/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rPT/values-pt-rPT.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 203,
+                    "endOffset": 304
+                },
+                "from": {
+                    "file": "/Users/mifmasterz/.android/build-cache/167c65fc432e1687d6306a9bc5f507655286fade/output/res/values-pt-rPT/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 289,
+                        "endColumn": 203,
+                        "endOffset": 492
+                    }
+                }
+            }
+        ]
+    }
+]

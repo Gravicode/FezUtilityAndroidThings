@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="driver-bmx280-0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/614a94b374d9580cf0a432592a98cbc199db0f3c/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/614a94b374d9580cf0a432592a98cbc199db0f3c/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.things.contrib/driver-bmx280/0.1/b4475f619501267aa534a9d0c7e7ff4b42e9f23b/driver-bmx280-0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

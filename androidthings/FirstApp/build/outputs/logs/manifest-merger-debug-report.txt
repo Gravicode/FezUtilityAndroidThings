@@ -1,0 +1,93 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirstApp/src/main/AndroidManifest.xml:17:1-43:12
+	package
+		ADDED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirstApp/src/main/AndroidManifest.xml:18:5-50
+		INJECTED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirstApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirstApp/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirstApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirstApp/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirstApp/src/main/AndroidManifest.xml:17:11-69
+	android:versionCode
+		INJECTED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirstApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirstApp/src/main/AndroidManifest.xml
+application
+ADDED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirstApp/src/main/AndroidManifest.xml:20:5-40:19
+MERGED from [contrib-drivers-master:fezhat:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/fezhat/build/intermediates/bundles/default/AndroidManifest.xml:11:5-13:19
+MERGED from [contrib-drivers-master:apa102:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/apa102/build/intermediates/bundles/default/AndroidManifest.xml:26:5-28:19
+MERGED from [contrib-drivers-master:button:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/button/build/intermediates/bundles/default/AndroidManifest.xml:26:5-28:19
+MERGED from [contrib-drivers-master:bmx280:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/bmx280/build/intermediates/bundles/default/AndroidManifest.xml:26:5-28:19
+MERGED from [contrib-drivers-master:ht16k33:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/ht16k33/build/intermediates/bundles/default/AndroidManifest.xml:26:5-28:19
+MERGED from [contrib-drivers-master:pwmspeaker:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/pwmspeaker/build/intermediates/bundles/default/AndroidManifest.xml:26:5-28:19
+MERGED from [contrib-drivers-master:pwmservo:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/pwmservo/build/intermediates/bundles/default/AndroidManifest.xml:26:5-28:19
+MERGED from [contrib-drivers-master:ads7830:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/ads7830/build/intermediates/bundles/default/AndroidManifest.xml:11:5-13:19
+MERGED from [contrib-drivers-master:mma8453:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/mma8453/build/intermediates/bundles/default/AndroidManifest.xml:11:5-13:19
+MERGED from [contrib-drivers-master:pca9685:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/pca9685/build/intermediates/bundles/default/AndroidManifest.xml:11:5-13:19
+	android:label
+		ADDED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirstApp/src/main/AndroidManifest.xml:23:9-41
+	android:allowBackup
+		ADDED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirstApp/src/main/AndroidManifest.xml:21:9-35
+	android:icon
+		ADDED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirstApp/src/main/AndroidManifest.xml:22:9-58
+uses-library#com.google.android.things
+ADDED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirstApp/src/main/AndroidManifest.xml:25:9-65
+MERGED from [contrib-drivers-master:fezhat:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/fezhat/build/intermediates/bundles/default/AndroidManifest.xml:12:9-66
+MERGED from [contrib-drivers-master:apa102:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/apa102/build/intermediates/bundles/default/AndroidManifest.xml:27:9-66
+MERGED from [contrib-drivers-master:button:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/button/build/intermediates/bundles/default/AndroidManifest.xml:27:9-66
+MERGED from [contrib-drivers-master:bmx280:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/bmx280/build/intermediates/bundles/default/AndroidManifest.xml:27:9-66
+MERGED from [contrib-drivers-master:ht16k33:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/ht16k33/build/intermediates/bundles/default/AndroidManifest.xml:27:9-66
+MERGED from [contrib-drivers-master:pwmspeaker:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/pwmspeaker/build/intermediates/bundles/default/AndroidManifest.xml:27:9-66
+MERGED from [contrib-drivers-master:pwmservo:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/pwmservo/build/intermediates/bundles/default/AndroidManifest.xml:27:9-66
+MERGED from [contrib-drivers-master:ads7830:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/ads7830/build/intermediates/bundles/default/AndroidManifest.xml:12:9-66
+MERGED from [contrib-drivers-master:mma8453:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/mma8453/build/intermediates/bundles/default/AndroidManifest.xml:12:9-66
+MERGED from [contrib-drivers-master:pca9685:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/pca9685/build/intermediates/bundles/default/AndroidManifest.xml:12:9-66
+	android:name
+		ADDED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirstApp/src/main/AndroidManifest.xml:25:23-63
+activity#com.example.androidthings.myproject.MainActivity
+ADDED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirstApp/src/main/AndroidManifest.xml:27:9-39:20
+	android:name
+		ADDED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirstApp/src/main/AndroidManifest.xml:27:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirstApp/src/main/AndroidManifest.xml:28:13-31:29
+action#android.intent.action.MAIN
+ADDED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirstApp/src/main/AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirstApp/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirstApp/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirstApp/src/main/AndroidManifest.xml:30:27-74
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.IOT_LAUNCHER
+ADDED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirstApp/src/main/AndroidManifest.xml:34:13-38:29
+category#android.intent.category.IOT_LAUNCHER
+ADDED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirstApp/src/main/AndroidManifest.xml:36:17-80
+	android:name
+		ADDED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirstApp/src/main/AndroidManifest.xml:36:27-78
+category#android.intent.category.DEFAULT
+ADDED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirstApp/src/main/AndroidManifest.xml:37:17-75
+	android:name
+		ADDED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirstApp/src/main/AndroidManifest.xml:37:27-73
+uses-permission#android.permission.INTERNET
+ADDED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirstApp/src/main/AndroidManifest.xml:41:5-67
+	android:name
+		ADDED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirstApp/src/main/AndroidManifest.xml:41:22-64
+uses-sdk
+INJECTED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirstApp/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [contrib-drivers-master:fezhat:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/fezhat/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [contrib-drivers-master:apa102:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/apa102/build/intermediates/bundles/default/AndroidManifest.xml:22:5-24:41
+MERGED from [contrib-drivers-master:button:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/button/build/intermediates/bundles/default/AndroidManifest.xml:22:5-24:41
+MERGED from [contrib-drivers-master:bmx280:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/bmx280/build/intermediates/bundles/default/AndroidManifest.xml:22:5-24:41
+MERGED from [contrib-drivers-master:ht16k33:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/ht16k33/build/intermediates/bundles/default/AndroidManifest.xml:22:5-24:41
+MERGED from [contrib-drivers-master:pwmspeaker:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/pwmspeaker/build/intermediates/bundles/default/AndroidManifest.xml:22:5-24:41
+MERGED from [contrib-drivers-master:pwmservo:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/pwmservo/build/intermediates/bundles/default/AndroidManifest.xml:22:5-24:41
+MERGED from [contrib-drivers-master:ads7830:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/ads7830/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [contrib-drivers-master:mma8453:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/mma8453/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [contrib-drivers-master:pca9685:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/pca9685/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		INJECTED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirstApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirstApp/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirstApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirstApp/src/main/AndroidManifest.xml

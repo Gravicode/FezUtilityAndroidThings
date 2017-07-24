@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FirebaseIoTApp/FirebaseIoTApp.iml" filepath="$PROJECT_DIR$/FirebaseIoTApp/FirebaseIoTApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstApp/FirstApp.iml" filepath="$PROJECT_DIR$/FirstApp/FirstApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ads7830/ads7830.iml" filepath="$PROJECT_DIR$/ads7830/ads7830.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apa102/apa102.iml" filepath="$PROJECT_DIR$/apa102/apa102.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blinking-led/blinking-led.iml" filepath="$PROJECT_DIR$/blinking-led/blinking-led.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bmx280/bmx280.iml" filepath="$PROJECT_DIR$/bmx280/bmx280.iml" />
+      <module fileurl="file://$PROJECT_DIR$/button/button.iml" filepath="$PROJECT_DIR$/button/button.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cap12xx/cap12xx.iml" filepath="$PROJECT_DIR$/cap12xx/cap12xx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contrib-drivers-master.iml" filepath="$PROJECT_DIR$/contrib-drivers-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fezhat/fezhat.iml" filepath="$PROJECT_DIR$/fezhat/fezhat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fezutility/fezutility.iml" filepath="$PROJECT_DIR$/fezutility/fezutility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fezutilityapp/fezutilityapp.iml" filepath="$PROJECT_DIR$/fezutilityapp/fezutilityapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gadgeteercore/gadgeteercore.iml" filepath="$PROJECT_DIR$/gadgeteercore/gadgeteercore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gps/gps.iml" filepath="$PROJECT_DIR$/gps/gps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ht16k33/ht16k33.iml" filepath="$PROJECT_DIR$/ht16k33/ht16k33.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mma7660fc/mma7660fc.iml" filepath="$PROJECT_DIR$/mma7660fc/mma7660fc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mma8453/mma8453.iml" filepath="$PROJECT_DIR$/mma8453/mma8453.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pca9535/pca9535.iml" filepath="$PROJECT_DIR$/pca9535/pca9535.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pca9685/pca9685.iml" filepath="$PROJECT_DIR$/pca9685/pca9685.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pwmservo/pwmservo.iml" filepath="$PROJECT_DIR$/pwmservo/pwmservo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pwmspeaker/pwmspeaker.iml" filepath="$PROJECT_DIR$/pwmspeaker/pwmspeaker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rainbowhat/rainbowhat.iml" filepath="$PROJECT_DIR$/rainbowhat/rainbowhat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rc-car/rc-car.iml" filepath="$PROJECT_DIR$/rc-car/rc-car.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssd1306/ssd1306.iml" filepath="$PROJECT_DIR$/ssd1306/ssd1306.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tm1637/tm1637.iml" filepath="$PROJECT_DIR$/tm1637/tm1637.iml" />
+    </modules>
+  </component>
+</project>

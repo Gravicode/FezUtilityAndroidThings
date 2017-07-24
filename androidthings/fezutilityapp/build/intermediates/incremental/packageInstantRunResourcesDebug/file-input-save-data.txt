@@ -1,0 +1,12 @@
+#Internal package file, do not edit.
+#Mon Jul 24 12:47:24 WIB 2017
+1.base=/Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/fezutilityapp/build/intermediates/res/resources-debug.ap_
+1.file=/Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/fezutilityapp/build/intermediates/res/resources-debug.ap_/resources.arsc
+2.base=/Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/fezutilityapp/build/intermediates/res/resources-debug.ap_
+2.set=ANDROID_RESOURCE
+2.file=/Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/fezutilityapp/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+count=3
+1.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE
+0.base=/Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/fezutilityapp/build/intermediates/res/resources-debug.ap_
+0.file=/Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/fezutilityapp/build/intermediates/res/resources-debug.ap_/res/layout/activity_main.xml

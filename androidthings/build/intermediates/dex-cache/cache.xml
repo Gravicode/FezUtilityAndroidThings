@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/fezutilityapp/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/fezutilityapp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6ad40be3c88d4d115fb107e623d7f19c0fc1aca1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/fezutilityapp/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fb4539050c1348b32e612edd9f6953c8c5cee438">
+        <dex dex="/Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/fezutilityapp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_eb9a72cf95d7b7cef4364f776da17b9a8c3a6de6/classes.dex" />
+    </item>
+
+</items>

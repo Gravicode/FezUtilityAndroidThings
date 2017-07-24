@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Mon Jul 24 12:47:28 WIB 2017
+1.base=/Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/fezutilityapp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6ad40be3c88d4d115fb107e623d7f19c0fc1aca1
+4.file=/Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/fezutilityapp/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+1.file=/Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/fezutilityapp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6ad40be3c88d4d115fb107e623d7f19c0fc1aca1/classes.dex
+4.set=ANDROID_RESOURCE
+2.base=/Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/fezutilityapp/build/intermediates/res/resources-debug.ap_
+3.set=DEX
+2.set=ANDROID_RESOURCE
+2.file=/Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/fezutilityapp/build/intermediates/res/resources-debug.ap_/resources.arsc
+count=5
+1.set=DEX
+3.base=/Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/fezutilityapp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_eb9a72cf95d7b7cef4364f776da17b9a8c3a6de6
+0.set=ANDROID_RESOURCE
+0.base=/Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/fezutilityapp/build/intermediates/res/resources-debug.ap_
+3.file=/Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/fezutilityapp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_eb9a72cf95d7b7cef4364f776da17b9a8c3a6de6/classes.dex
+0.file=/Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/fezutilityapp/build/intermediates/res/resources-debug.ap_/res/layout/activity_main.xml
+4.base=/Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/fezutilityapp/build/intermediates/res/resources-debug.ap_

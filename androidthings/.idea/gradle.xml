@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/FirebaseIoTApp" />
+            <option value="$PROJECT_DIR$/FirstApp" />
+            <option value="$PROJECT_DIR$/ads7830" />
+            <option value="$PROJECT_DIR$/apa102" />
+            <option value="$PROJECT_DIR$/blinking-led" />
+            <option value="$PROJECT_DIR$/bmx280" />
+            <option value="$PROJECT_DIR$/button" />
+            <option value="$PROJECT_DIR$/cap12xx" />
+            <option value="$PROJECT_DIR$/fezhat" />
+            <option value="$PROJECT_DIR$/fezutility" />
+            <option value="$PROJECT_DIR$/fezutilityapp" />
+            <option value="$PROJECT_DIR$/gadgeteercore" />
+            <option value="$PROJECT_DIR$/gps" />
+            <option value="$PROJECT_DIR$/ht16k33" />
+            <option value="$PROJECT_DIR$/mma7660fc" />
+            <option value="$PROJECT_DIR$/mma8453" />
+            <option value="$PROJECT_DIR$/pca9535" />
+            <option value="$PROJECT_DIR$/pca9685" />
+            <option value="$PROJECT_DIR$/pwmservo" />
+            <option value="$PROJECT_DIR$/pwmspeaker" />
+            <option value="$PROJECT_DIR$/rainbowhat" />
+            <option value="$PROJECT_DIR$/rc-car" />
+            <option value="$PROJECT_DIR$/ssd1306" />
+            <option value="$PROJECT_DIR$/tm1637" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

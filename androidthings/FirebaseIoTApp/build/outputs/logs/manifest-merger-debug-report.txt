@@ -1,0 +1,255 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirebaseIoTApp/src/main/AndroidManifest.xml:17:1-46:12
+	package
+		ADDED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirebaseIoTApp/src/main/AndroidManifest.xml:18:5-50
+		INJECTED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirebaseIoTApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirebaseIoTApp/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirebaseIoTApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirebaseIoTApp/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirebaseIoTApp/src/main/AndroidManifest.xml:17:11-69
+	android:versionCode
+		INJECTED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirebaseIoTApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirebaseIoTApp/src/main/AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirebaseIoTApp/src/main/AndroidManifest.xml:19:5-65
+	android:name
+		ADDED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirebaseIoTApp/src/main/AndroidManifest.xml:19:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirebaseIoTApp/src/main/AndroidManifest.xml:20:5-80
+	android:name
+		ADDED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirebaseIoTApp/src/main/AndroidManifest.xml:20:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirebaseIoTApp/src/main/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] /Users/mifmasterz/.android/build-cache/c906765db3716c7c1c7ee66ef5d890ff6fabb90e/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /Users/mifmasterz/.android/build-cache/2ed81562fd91921a877ee91e267351cd58a5fa93/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.0.0] /Users/mifmasterz/.android/build-cache/e51fca2a2d0ecab4d99dda641943e38c3f907038/output/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirebaseIoTApp/src/main/AndroidManifest.xml:21:22-64
+uses-feature#android.hardware.camera
+ADDED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirebaseIoTApp/src/main/AndroidManifest.xml:23:5-60
+	android:name
+		ADDED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirebaseIoTApp/src/main/AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirebaseIoTApp/src/main/AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirebaseIoTApp/src/main/AndroidManifest.xml:24:19-67
+application
+ADDED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirebaseIoTApp/src/main/AndroidManifest.xml:25:5-45:19
+MERGED from [com.google.firebase:firebase-core:9.0.0] /Users/mifmasterz/.android/build-cache/58712ef1f9011adcb826d14ab0758199724f59fb/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] /Users/mifmasterz/.android/build-cache/c906765db3716c7c1c7ee66ef5d890ff6fabb90e/output/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /Users/mifmasterz/.android/build-cache/2ed81562fd91921a877ee91e267351cd58a5fa93/output/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.android.gms:play-services-base:9.0.0] /Users/mifmasterz/.android/build-cache/df05ff5c3e9068382ae7366eac0fbe27fa5003c5/output/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-iid:9.0.0] /Users/mifmasterz/.android/build-cache/e51fca2a2d0ecab4d99dda641943e38c3f907038/output/AndroidManifest.xml:30:5-59:19
+MERGED from [contrib-drivers-master:fezhat:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/fezhat/build/intermediates/bundles/default/AndroidManifest.xml:11:5-13:19
+MERGED from [contrib-drivers-master:apa102:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/apa102/build/intermediates/bundles/default/AndroidManifest.xml:26:5-28:19
+MERGED from [contrib-drivers-master:button:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/button/build/intermediates/bundles/default/AndroidManifest.xml:26:5-28:19
+MERGED from [contrib-drivers-master:bmx280:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/bmx280/build/intermediates/bundles/default/AndroidManifest.xml:26:5-28:19
+MERGED from [contrib-drivers-master:ht16k33:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/ht16k33/build/intermediates/bundles/default/AndroidManifest.xml:26:5-28:19
+MERGED from [contrib-drivers-master:pwmspeaker:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/pwmspeaker/build/intermediates/bundles/default/AndroidManifest.xml:26:5-28:19
+MERGED from [contrib-drivers-master:pwmservo:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/pwmservo/build/intermediates/bundles/default/AndroidManifest.xml:26:5-28:19
+MERGED from [contrib-drivers-master:ads7830:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/ads7830/build/intermediates/bundles/default/AndroidManifest.xml:11:5-13:19
+MERGED from [contrib-drivers-master:mma8453:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/mma8453/build/intermediates/bundles/default/AndroidManifest.xml:11:5-13:19
+MERGED from [contrib-drivers-master:pca9685:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/pca9685/build/intermediates/bundles/default/AndroidManifest.xml:11:5-13:19
+MERGED from [:Tensorflow-Android-Inference-alpha-debug:] /Users/mifmasterz/.android/build-cache/de3a5c3ce38c3e1bffa5d9a3d6c571be5338ef84/output/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.firebase:firebase-common:10.0.1] /Users/mifmasterz/.android/build-cache/31172a45eaabb55f6df0bb1949c1cb985a43ee1f/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /Users/mifmasterz/.android/build-cache/b6b0b733b1bea42ab6659c7099c2c1f458eee9da/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/mifmasterz/.android/build-cache/167c65fc432e1687d6306a9bc5f507655286fade/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.0.0] /Users/mifmasterz/.android/build-cache/185ee1e639d29f2af2e2a483e8b2321e856b2428/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirebaseIoTApp/src/main/AndroidManifest.xml:28:9-41
+	android:supportsRtl
+		ADDED from [:Tensorflow-Android-Inference-alpha-debug:] /Users/mifmasterz/.android/build-cache/de3a5c3ce38c3e1bffa5d9a3d6c571be5338ef84/output/AndroidManifest.xml:10:9-35
+	android:allowBackup
+		ADDED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirebaseIoTApp/src/main/AndroidManifest.xml:26:9-35
+	android:icon
+		ADDED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirebaseIoTApp/src/main/AndroidManifest.xml:27:9-58
+uses-library#com.google.android.things
+ADDED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirebaseIoTApp/src/main/AndroidManifest.xml:30:9-65
+MERGED from [contrib-drivers-master:fezhat:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/fezhat/build/intermediates/bundles/default/AndroidManifest.xml:12:9-66
+MERGED from [contrib-drivers-master:apa102:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/apa102/build/intermediates/bundles/default/AndroidManifest.xml:27:9-66
+MERGED from [contrib-drivers-master:button:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/button/build/intermediates/bundles/default/AndroidManifest.xml:27:9-66
+MERGED from [contrib-drivers-master:bmx280:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/bmx280/build/intermediates/bundles/default/AndroidManifest.xml:27:9-66
+MERGED from [contrib-drivers-master:ht16k33:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/ht16k33/build/intermediates/bundles/default/AndroidManifest.xml:27:9-66
+MERGED from [contrib-drivers-master:pwmspeaker:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/pwmspeaker/build/intermediates/bundles/default/AndroidManifest.xml:27:9-66
+MERGED from [contrib-drivers-master:pwmservo:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/pwmservo/build/intermediates/bundles/default/AndroidManifest.xml:27:9-66
+MERGED from [contrib-drivers-master:ads7830:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/ads7830/build/intermediates/bundles/default/AndroidManifest.xml:12:9-66
+MERGED from [contrib-drivers-master:mma8453:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/mma8453/build/intermediates/bundles/default/AndroidManifest.xml:12:9-66
+MERGED from [contrib-drivers-master:pca9685:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/pca9685/build/intermediates/bundles/default/AndroidManifest.xml:12:9-66
+	android:name
+		ADDED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirebaseIoTApp/src/main/AndroidManifest.xml:30:23-63
+activity#com.example.androidthings.myproject.MainActivity
+ADDED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirebaseIoTApp/src/main/AndroidManifest.xml:32:9-44:20
+	android:name
+		ADDED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirebaseIoTApp/src/main/AndroidManifest.xml:32:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirebaseIoTApp/src/main/AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirebaseIoTApp/src/main/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirebaseIoTApp/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirebaseIoTApp/src/main/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirebaseIoTApp/src/main/AndroidManifest.xml:35:27-74
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.IOT_LAUNCHER
+ADDED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirebaseIoTApp/src/main/AndroidManifest.xml:39:13-43:29
+category#android.intent.category.IOT_LAUNCHER
+ADDED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirebaseIoTApp/src/main/AndroidManifest.xml:41:17-80
+	android:name
+		ADDED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirebaseIoTApp/src/main/AndroidManifest.xml:41:27-78
+category#android.intent.category.DEFAULT
+ADDED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirebaseIoTApp/src/main/AndroidManifest.xml:42:17-75
+	android:name
+		ADDED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirebaseIoTApp/src/main/AndroidManifest.xml:42:27-73
+uses-sdk
+INJECTED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirebaseIoTApp/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.firebase:firebase-core:9.0.0] /Users/mifmasterz/.android/build-cache/58712ef1f9011adcb826d14ab0758199724f59fb/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] /Users/mifmasterz/.android/build-cache/c906765db3716c7c1c7ee66ef5d890ff6fabb90e/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /Users/mifmasterz/.android/build-cache/2ed81562fd91921a877ee91e267351cd58a5fa93/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.0.0] /Users/mifmasterz/.android/build-cache/df05ff5c3e9068382ae7366eac0fbe27fa5003c5/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.0.0] /Users/mifmasterz/.android/build-cache/e51fca2a2d0ecab4d99dda641943e38c3f907038/output/AndroidManifest.xml:18:5-42
+MERGED from [contrib-drivers-master:fezhat:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/fezhat/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [contrib-drivers-master:apa102:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/apa102/build/intermediates/bundles/default/AndroidManifest.xml:22:5-24:41
+MERGED from [contrib-drivers-master:button:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/button/build/intermediates/bundles/default/AndroidManifest.xml:22:5-24:41
+MERGED from [contrib-drivers-master:bmx280:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/bmx280/build/intermediates/bundles/default/AndroidManifest.xml:22:5-24:41
+MERGED from [contrib-drivers-master:ht16k33:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/ht16k33/build/intermediates/bundles/default/AndroidManifest.xml:22:5-24:41
+MERGED from [contrib-drivers-master:pwmspeaker:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/pwmspeaker/build/intermediates/bundles/default/AndroidManifest.xml:22:5-24:41
+MERGED from [contrib-drivers-master:pwmservo:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/pwmservo/build/intermediates/bundles/default/AndroidManifest.xml:22:5-24:41
+MERGED from [contrib-drivers-master:ads7830:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/ads7830/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [contrib-drivers-master:mma8453:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/mma8453/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [contrib-drivers-master:pca9685:unspecified] /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/pca9685/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-database:10.0.1] /Users/mifmasterz/.android/build-cache/679f999fb60a45548685308adb3b45cb8024dc10/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:10.0.1] /Users/mifmasterz/.android/build-cache/d77dc15c915e2e2c80d936fc73fa44e881abbf69/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-common:10.0.1] /Users/mifmasterz/.android/build-cache/31172a45eaabb55f6df0bb1949c1cb985a43ee1f/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /Users/mifmasterz/.android/build-cache/b6b0b733b1bea42ab6659c7099c2c1f458eee9da/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/mifmasterz/.android/build-cache/167c65fc432e1687d6306a9bc5f507655286fade/output/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:24.0.0] /Users/mifmasterz/.android/build-cache/185ee1e639d29f2af2e2a483e8b2321e856b2428/output/AndroidManifest.xml:21:5-23:54
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:24.0.0] /Users/mifmasterz/.android/build-cache/185ee1e639d29f2af2e2a483e8b2321e856b2428/output/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirebaseIoTApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirebaseIoTApp/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirebaseIoTApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirebaseIoTApp/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/mifmasterz/.android/build-cache/c906765db3716c7c1c7ee66ef5d890ff6fabb90e/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /Users/mifmasterz/.android/build-cache/2ed81562fd91921a877ee91e267351cd58a5fa93/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:9.0.0] /Users/mifmasterz/.android/build-cache/e51fca2a2d0ecab4d99dda641943e38c3f907038/output/AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/mifmasterz/.android/build-cache/c906765db3716c7c1c7ee66ef5d890ff6fabb90e/output/AndroidManifest.xml:22:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/mifmasterz/.android/build-cache/c906765db3716c7c1c7ee66ef5d890ff6fabb90e/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /Users/mifmasterz/.android/build-cache/2ed81562fd91921a877ee91e267351cd58a5fa93/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:9.0.0] /Users/mifmasterz/.android/build-cache/e51fca2a2d0ecab4d99dda641943e38c3f907038/output/AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/mifmasterz/.android/build-cache/c906765db3716c7c1c7ee66ef5d890ff6fabb90e/output/AndroidManifest.xml:24:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/mifmasterz/.android/build-cache/c906765db3716c7c1c7ee66ef5d890ff6fabb90e/output/AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /Users/mifmasterz/.android/build-cache/2ed81562fd91921a877ee91e267351cd58a5fa93/output/AndroidManifest.xml:28:7-34:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/mifmasterz/.android/build-cache/c906765db3716c7c1c7ee66ef5d890ff6fabb90e/output/AndroidManifest.xml:30:11-33
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/mifmasterz/.android/build-cache/c906765db3716c7c1c7ee66ef5d890ff6fabb90e/output/AndroidManifest.xml:29:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/mifmasterz/.android/build-cache/c906765db3716c7c1c7ee66ef5d890ff6fabb90e/output/AndroidManifest.xml:31:9-33:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/mifmasterz/.android/build-cache/c906765db3716c7c1c7ee66ef5d890ff6fabb90e/output/AndroidManifest.xml:32:11-77
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/mifmasterz/.android/build-cache/c906765db3716c7c1c7ee66ef5d890ff6fabb90e/output/AndroidManifest.xml:32:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/mifmasterz/.android/build-cache/c906765db3716c7c1c7ee66ef5d890ff6fabb90e/output/AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /Users/mifmasterz/.android/build-cache/2ed81562fd91921a877ee91e267351cd58a5fa93/output/AndroidManifest.xml:36:7-39:37
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/mifmasterz/.android/build-cache/c906765db3716c7c1c7ee66ef5d890ff6fabb90e/output/AndroidManifest.xml:38:11-33
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/mifmasterz/.android/build-cache/c906765db3716c7c1c7ee66ef5d890ff6fabb90e/output/AndroidManifest.xml:39:11-35
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/mifmasterz/.android/build-cache/c906765db3716c7c1c7ee66ef5d890ff6fabb90e/output/AndroidManifest.xml:37:11-82
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.0.0] /Users/mifmasterz/.android/build-cache/df05ff5c3e9068382ae7366eac0fbe27fa5003c5/output/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.0.0] /Users/mifmasterz/.android/build-cache/df05ff5c3e9068382ae7366eac0fbe27fa5003c5/output/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.0.0] /Users/mifmasterz/.android/build-cache/df05ff5c3e9068382ae7366eac0fbe27fa5003c5/output/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.0.0] /Users/mifmasterz/.android/build-cache/df05ff5c3e9068382ae7366eac0fbe27fa5003c5/output/AndroidManifest.xml:20:19-85
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/mifmasterz/.android/build-cache/e51fca2a2d0ecab4d99dda641943e38c3f907038/output/AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/mifmasterz/.android/build-cache/e51fca2a2d0ecab4d99dda641943e38c3f907038/output/AndroidManifest.xml:23:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/mifmasterz/.android/build-cache/e51fca2a2d0ecab4d99dda641943e38c3f907038/output/AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/mifmasterz/.android/build-cache/e51fca2a2d0ecab4d99dda641943e38c3f907038/output/AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/mifmasterz/.android/build-cache/e51fca2a2d0ecab4d99dda641943e38c3f907038/output/AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/mifmasterz/.android/build-cache/e51fca2a2d0ecab4d99dda641943e38c3f907038/output/AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/mifmasterz/.android/build-cache/e51fca2a2d0ecab4d99dda641943e38c3f907038/output/AndroidManifest.xml:28:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/mifmasterz/.android/build-cache/e51fca2a2d0ecab4d99dda641943e38c3f907038/output/AndroidManifest.xml:32:9-41:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/mifmasterz/.android/build-cache/e51fca2a2d0ecab4d99dda641943e38c3f907038/output/AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/mifmasterz/.android/build-cache/e51fca2a2d0ecab4d99dda641943e38c3f907038/output/AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/mifmasterz/.android/build-cache/e51fca2a2d0ecab4d99dda641943e38c3f907038/output/AndroidManifest.xml:33:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/mifmasterz/.android/build-cache/e51fca2a2d0ecab4d99dda641943e38c3f907038/output/AndroidManifest.xml:36:13-40:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/mifmasterz/.android/build-cache/e51fca2a2d0ecab4d99dda641943e38c3f907038/output/AndroidManifest.xml:37:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/mifmasterz/.android/build-cache/e51fca2a2d0ecab4d99dda641943e38c3f907038/output/AndroidManifest.xml:37:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/mifmasterz/.android/build-cache/e51fca2a2d0ecab4d99dda641943e38c3f907038/output/AndroidManifest.xml:38:17-86
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/mifmasterz/.android/build-cache/e51fca2a2d0ecab4d99dda641943e38c3f907038/output/AndroidManifest.xml:38:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/mifmasterz/.android/build-cache/e51fca2a2d0ecab4d99dda641943e38c3f907038/output/AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/mifmasterz/.android/build-cache/e51fca2a2d0ecab4d99dda641943e38c3f907038/output/AndroidManifest.xml:39:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/mifmasterz/.android/build-cache/e51fca2a2d0ecab4d99dda641943e38c3f907038/output/AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/mifmasterz/.android/build-cache/e51fca2a2d0ecab4d99dda641943e38c3f907038/output/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/mifmasterz/.android/build-cache/e51fca2a2d0ecab4d99dda641943e38c3f907038/output/AndroidManifest.xml:46:13-86
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/mifmasterz/.android/build-cache/e51fca2a2d0ecab4d99dda641943e38c3f907038/output/AndroidManifest.xml:51:9-57:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/mifmasterz/.android/build-cache/e51fca2a2d0ecab4d99dda641943e38c3f907038/output/AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/mifmasterz/.android/build-cache/e51fca2a2d0ecab4d99dda641943e38c3f907038/output/AndroidManifest.xml:52:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/mifmasterz/.android/build-cache/e51fca2a2d0ecab4d99dda641943e38c3f907038/output/AndroidManifest.xml:54:13-56:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/mifmasterz/.android/build-cache/e51fca2a2d0ecab4d99dda641943e38c3f907038/output/AndroidManifest.xml:54:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/mifmasterz/.android/build-cache/e51fca2a2d0ecab4d99dda641943e38c3f907038/output/AndroidManifest.xml:55:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/mifmasterz/.android/build-cache/e51fca2a2d0ecab4d99dda641943e38c3f907038/output/AndroidManifest.xml:55:25-77
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirebaseIoTApp/src/main/AndroidManifest.xml:17:1-46:12 reason: org.tensorflow.contrib.android has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/FirebaseIoTApp/src/main/AndroidManifest.xml:17:1-46:12 reason: org.tensorflow.contrib.android requested WRITE_EXTERNAL_STORAGE
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.0.1] /Users/mifmasterz/.android/build-cache/31172a45eaabb55f6df0bb1949c1cb985a43ee1f/output/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /Users/mifmasterz/.android/build-cache/31172a45eaabb55f6df0bb1949c1cb985a43ee1f/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /Users/mifmasterz/.android/build-cache/31172a45eaabb55f6df0bb1949c1cb985a43ee1f/output/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /Users/mifmasterz/.android/build-cache/31172a45eaabb55f6df0bb1949c1cb985a43ee1f/output/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /Users/mifmasterz/.android/build-cache/31172a45eaabb55f6df0bb1949c1cb985a43ee1f/output/AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.0.1] /Users/mifmasterz/.android/build-cache/167c65fc432e1687d6306a9bc5f507655286fade/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] /Users/mifmasterz/.android/build-cache/167c65fc432e1687d6306a9bc5f507655286fade/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] /Users/mifmasterz/.android/build-cache/167c65fc432e1687d6306a9bc5f507655286fade/output/AndroidManifest.xml:20:20-65

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/ads7830/src/main/jniLibs"/></dataSet><dataSet config="release"><source path="/Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/ads7830/src/release/jniLibs"/></dataSet></merger>

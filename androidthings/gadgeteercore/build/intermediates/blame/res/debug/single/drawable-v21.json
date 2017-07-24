@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/gadgeteercore/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/mifmasterz/.android/build-cache/1dd1aadda85bc11fe29f32d942857fcd84803f7a/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/gadgeteercore/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/mifmasterz/.android/build-cache/1dd1aadda85bc11fe29f32d942857fcd84803f7a/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/gadgeteercore/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/mifmasterz/.android/build-cache/1dd1aadda85bc11fe29f32d942857fcd84803f7a/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/gadgeteercore/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/mifmasterz/.android/build-cache/1dd1aadda85bc11fe29f32d942857fcd84803f7a/output/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]

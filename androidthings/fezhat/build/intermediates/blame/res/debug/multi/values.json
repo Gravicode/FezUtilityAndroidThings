@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/fezhat/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 43,
+                    "endOffset": 94
+                },
+                "from": {
+                    "file": "/Users/mifmasterz/Documents/experiment/android_things/contrib-drivers-master/fezhat/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 43,
+                        "endOffset": 55
+                    }
+                }
+            }
+        ]
+    }
+]
